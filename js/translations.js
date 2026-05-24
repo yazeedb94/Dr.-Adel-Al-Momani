@@ -62,7 +62,7 @@ const translations = {
         btn_book_now: "Book Now",
         doctor_title: "About The Doctor",
         doctor_name: "Dr. Adel Al-Momani",
-        doctor_desc: "Consultant Ophthalmologist with over 15 years of extensive experience in providing eye healthcare. Specialized in the latest vision correction technologies and cataract/glaucoma treatment, always committed to delivering the highest standards of medical quality to his patients.",
+        doctor_desc: "Consultant Ophthalmologist with over 40 years of extensive experience in providing eye healthcare. Specialized in the latest vision correction technologies and cataract/glaucoma treatment, always committed to delivering the highest standards of medical quality to his patients.",
         doc_feat_1: "Latest examination and treatment technologies",
         doc_feat_2: "Expertise in Laser and LASIK surgeries",
         doc_feat_3: "Thousands of successful surgeries",
